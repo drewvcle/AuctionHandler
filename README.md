@@ -7,7 +7,7 @@ This purpose of this program is to support the current hard-working handlers as 
 Functions:
 1. Private: automatic timer that serves to ping specific auction handlers when an auction ends.
 2. Private: !timers command which is used to display the current auction channels that are done/ongoing.
-3. Private: Pings contracted auction handlers when current handler is next in queue for auction.
+3. Private: Auction handlers are automatically pinged when next in auction queue.
 4. Public: !auction command which is used to display current ongoing auctions and the item that is auctioned.
 5. Public: !lb command which is used to display a leaderboards consisting the top 50 players who won the most bids.
 6. Public: !ca command which when used, runs a sophisticated ticket system for the user to submit an auction.
